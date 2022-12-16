@@ -1,5 +1,7 @@
 # Unit 02 Mini-Project: CSS Snippet Cheat Sheet
 
+[Visit the Deployed Site](https://mccoydidericksen.github.io/css-snippet-cheat-sheet)
+
 In this activity, you will work with a group to build a webpage that will hold a collection of CSS snippets. What better way to learn CSS than to build a knowledge base of CSS?
 
 ## Instructions
