@@ -3,11 +3,12 @@
   --main-color: #3c5761;
   --text-color: #e0eae4;
   --header-color: #f3d8b2;
+  --code-highlight: #f4f09e;
 }
 
 /* set content highlight color and background */
 ::selection {
-  background-color: var(--bright-turquoise);
+  background-color: var(--code-highlight);
   color: var(--main-color);
 }
 
